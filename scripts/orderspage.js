@@ -63,7 +63,7 @@ async function renderOrders() {
                 Quantity: ${product.quantity}
               </div>
               
-              <a href="amazon.html">
+              <a href="index.html">
               <button class="buy-again-button button-primary">
                 <img class="buy-again-icon" src="images/icons/buy-again.png">
                 <span class="buy-again-message">Buy it again</span>
@@ -172,3 +172,4 @@ function date(month, day) {
 
   return date;
 }
+
